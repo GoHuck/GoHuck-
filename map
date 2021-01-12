@@ -6,3 +6,5 @@ import folium
 map = folium.Map(location=[55.75, 37.6167], zoom_start=8)
 
 map.save('карта мира.html')
+
+##затем найдешь тот самый файл карта мира.html, откроешь его и будет твоя карта
