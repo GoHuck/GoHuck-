@@ -1,0 +1,8 @@
+pip install folium ##для начало нужно будет импорт
+
+
+import folium
+
+map = folium.Map(location=[55.75, 37.6167], zoom_start=8)
+
+map.save('карта мира.html')
