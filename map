@@ -1,4 +1,5 @@
-pip install folium ##снизу terminal либо alt+f12, пишем туда, после enter.
+
+pip install folium ##снизу terminal либо alt+f12, пишем туда, после enter
 
 ##нужно будет импорт иначе никак
 import folium
