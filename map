@@ -1,6 +1,6 @@
-pip install folium ##для начало нужно будет импорт
+pip install folium ##снизу terminal либо alt+f12, пишем туда, после enter.
 
-##затем пишем этот обьект
+##нужно будет импорт иначе никак
 import folium
 
 map = folium.Map(location=[55.75, 37.6167], zoom_start=8)
